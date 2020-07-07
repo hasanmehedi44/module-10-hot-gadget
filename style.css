@@ -1,8 +1,50 @@
-.carousel button {
+button {
     background-color: black;
     color: white;
     padding: 10px 15px;
     border-radius: 7px;
     border: none;
     margin-top: 30px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 6px 10px rgb(131, 121, 121);
+}
+
+.phones {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.justify-content-center {
+    margin-bottom: 20px;
+}
+
+.laptops {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.categories {
+    height: 500px;
+    background-color: aliceblue;
+}
+
+.categories img {
+    background-color: white;
+    margin: 10px;
+    padding: 40px;
+}
+
+.categories h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+footer {
+    margin-top: 200px;
+    text-align: center;
 }
